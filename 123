@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Лабораторная работа №1 </title>
+	</head>
+	<body>
+		<?php
+			echo ". Вычислить периметр прямоугольника P=2*(a+b)";
+			echo 2*(4+6);
+		?>
+	</body>
+</html>
